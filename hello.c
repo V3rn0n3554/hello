@@ -9,6 +9,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+//prints names and majors
+
 int main(int argc, char **argv) {
 
     printf("My name is Colter Musgrove!\n");
